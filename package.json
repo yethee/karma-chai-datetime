@@ -1,0 +1,25 @@
+{
+  "name": "karma-chai-datetime",
+  "version": "0.1.0",
+  "description": "chai-datetime plugin for Karma.",
+  "keywords": [
+    "chai",
+    "chai-datetime",
+    "karma",
+    "karma-plugin"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yethee/karma-chai-datetime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yethee/karma-chai-datetime/issues"
+  },
+  "homepage": "https://github.com/yethee/karma-chai-datetime",
+  "peerDependencies": {
+    "chai-datetime": "*",
+    "karma": ">=0.10.x"
+  }
+}
