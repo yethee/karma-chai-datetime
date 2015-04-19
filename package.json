@@ -1,6 +1,6 @@
 {
   "name": "karma-chai-datetime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "chai-datetime plugin for Karma.",
   "keywords": [
     "chai",
